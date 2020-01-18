@@ -1,0 +1,8 @@
+C:\Users\vivek\source\repos\EAS.Models\bin\Debug\netstandard2.0\EAS.Models.deps.json
+C:\Users\vivek\source\repos\EAS.Models\bin\Debug\netstandard2.0\EAS.Models.dll
+C:\Users\vivek\source\repos\EAS.Models\bin\Debug\netstandard2.0\EAS.Models.pdb
+C:\Users\vivek\source\repos\EAS.Models\obj\Debug\netstandard2.0\EAS.Models.csprojAssemblyReference.cache
+C:\Users\vivek\source\repos\EAS.Models\obj\Debug\netstandard2.0\EAS.Models.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\EAS.Models\obj\Debug\netstandard2.0\EAS.Models.AssemblyInfo.cs
+C:\Users\vivek\source\repos\EAS.Models\obj\Debug\netstandard2.0\EAS.Models.dll
+C:\Users\vivek\source\repos\EAS.Models\obj\Debug\netstandard2.0\EAS.Models.pdb

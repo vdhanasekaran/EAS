@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAS", "EAS.csproj", "{0060DED4-DCFC-459E-8FF5-5FA234EE0D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAS.Service", "..\EAS.Service\EAS.Service.csproj", "{301213A0-3DAD-427D-89B5-336F7B66AA95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAS.Models", "..\EAS.Models\EAS.Models.csproj", "{5A2DFE6D-D7A8-4E13-A6F9-35DE938D6FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0060DED4-DCFC-459E-8FF5-5FA234EE0D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0060DED4-DCFC-459E-8FF5-5FA234EE0D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0060DED4-DCFC-459E-8FF5-5FA234EE0D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0060DED4-DCFC-459E-8FF5-5FA234EE0D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301213A0-3DAD-427D-89B5-336F7B66AA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301213A0-3DAD-427D-89B5-336F7B66AA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301213A0-3DAD-427D-89B5-336F7B66AA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301213A0-3DAD-427D-89B5-336F7B66AA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2DFE6D-D7A8-4E13-A6F9-35DE938D6FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2DFE6D-D7A8-4E13-A6F9-35DE938D6FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2DFE6D-D7A8-4E13-A6F9-35DE938D6FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2DFE6D-D7A8-4E13-A6F9-35DE938D6FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D5A3B3-F10A-4043-8748-AD04E1987C66}
+	EndGlobalSection
+EndGlobal
